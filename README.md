@@ -6,6 +6,8 @@ Bu proje, Java kullanılarak geliştirilmiş bir Haber Yönetim Sistemi uygulama
 Uygulama, özellikle Supplier, Consumer, Comparator, Stream API, Filter, Sort, Lambda Expressions gibi modern Java özelliklerini öğrenmek ve pratik yapmak amacıyla geliştirilmiştir.
 
 🚀 Özellikler
+
+
 ✔ 1. Haber Ekleme
 
 Kullanıcı yeni bir haber ekleyebilir. Başlık, içerik, yazar, kategori ve zaman bilgisi alınır.
@@ -47,6 +49,8 @@ Lambda Expressions :	Kodun daha okunabilir ve kısa olması sağlandı.
 
 src/
  ├── Main.java        → İşlemlerin yönetildiği ana sınıf
+
+ 
  ├── News.java        → Haber nesnesi
 
 
@@ -55,10 +59,15 @@ src/
 Program çalıştığında kullanıcıya aşağıdaki menü sunulur:
 
 1 - Haber Ekle
+
 2 - Güncelle
+
 3 - Sil
+
 4 - Ara
+
 5 - Haber Önerileri
+
 6 - Tüm Haberler
 
 
