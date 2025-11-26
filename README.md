@@ -39,6 +39,7 @@ Eklenen tüm haberler Consumer kullanılarak formatlı şekilde görüntülenir.
 Bu proje, Java’nın modern fonksiyonel programlama yapılarından birçoğunu içerir:
 
 Kullanım	Açıklama
+
 Supplier : İlk haber listesini oluşturmak için kullandım.
 
 Consumer :	Haberlerin ekrana basılma şeklini yönetiyor.
