@@ -1,9 +1,9 @@
 # realLifeExamplesWithJava
 📰 Haber Yönetim Sistemi – Java Console App
 
-Bu proje, Java kullanılarak geliştirilmiş bir Haber Yönetim Sistemi uygulamasıdır. Konsol üzerinden haber ekleme, silme, güncelleme, arama ve haber önerme işlemlerini yapmanıza olanak sağlar.
+Bu proje, Java kullanarak geliştirdiğim bir Haber Yönetim Sistemi uygulamasıdır. Konsol üzerinden haber ekleme, silme, güncelleme, arama ve haber önerme işlemlerini yapmanıza olanak sağlar.
 
-Uygulama, özellikle Supplier, Consumer, Comparator, Stream API, Filter, Sort, Lambda Expressions gibi modern Java özelliklerini öğrenmek ve pratik yapmak amacıyla geliştirilmiştir.
+Uygulama, özellikle Supplier, Consumer, Comparator, Stream API, Filter, Sort, Lambda Expressions gibi modern Java özelliklerini öğrenmek ve pratik yapmak amacıyla geliştirdim.
 
 🚀 Özellikler
 
@@ -39,11 +39,15 @@ Eklenen tüm haberler Consumer kullanılarak formatlı şekilde görüntülenir.
 Bu proje, Java’nın modern fonksiyonel programlama yapılarından birçoğunu içerir:
 
 Kullanım	Açıklama
-Supplier : İlk haber listesini oluşturmak için kullanıldı.
+Supplier : İlk haber listesini oluşturmak için kullandım.
+
 Consumer :	Haberlerin ekrana basılma şeklini yönetiyor.
-Comparator :	Haberleri tarihe göre sıralamak için kullanıldı.
-Streams API : Filtreleme, sıralama, listeleme işlemleri için kullanıldı.
-Lambda Expressions :	Kodun daha okunabilir ve kısa olması sağlandı.
+
+Comparator :	Haberleri tarihe göre sıralamak için kullandım.
+
+Streams API : Filtreleme, sıralama, listeleme işlemleri için kullandım.
+
+Lambda Expressions :	Kodun daha okunabilir ve kısa olması için kullandım.
 
 📁 Proje Yapısı
 
@@ -75,4 +79,4 @@ Her seçeneğin ardından ilgili işlem yapılır ve ekrana sonuçlar yazdırıl
 
 🎯 Amaç
 
-Bu proje;  fonksiyonel programlama yapıları, koleksiyonlar, lambda ifadeleri ve Stream API'nin gerçek bir senaryoda nasıl kullanılacağını öğrenmek için geliştirilmiştir.
+Bu proje;  fonksiyonel programlama yapıları, koleksiyonlar, lambda ifadeleri ve Stream API'nin gerçek bir senaryoda nasıl kullanılacağını öğrenmek için geliştirdim.
